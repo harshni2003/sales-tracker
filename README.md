@@ -35,5 +35,5 @@ Supporting Data: product catalog, regional data
 1) In my sales tracker dashboard if we will want to see the sales of banglore and in which year which is sold we can see through table and by graph
 Screenshot.
 2) We can also refresh
-   Screenshot:
+## Screenshot:
 https://github.com/harshni2003/sales-tracker/blob/main/Snapshot%20sales%20dashboard.png

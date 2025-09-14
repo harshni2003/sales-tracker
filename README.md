@@ -33,6 +33,6 @@ Supporting Data: product catalog, regional data
 🧾 Export & Reporting options (PDF, Excel).
 ## Example:
 1) In my sales tracker dashboard if we want to see the sales of banglore and how much phone is sold we can see through table and by graph and transaction method throgh pie chart.
-2) We can also refresh
+2) We can also refresh it if we want
 ## Screenshot:
 https://github.com/harshni2003/sales-tracker/blob/main/Snapshot%20sales%20dashboard.png

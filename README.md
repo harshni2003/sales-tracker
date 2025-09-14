@@ -2,7 +2,7 @@
 sales-tracker-dashboard
 Recommended structure and order
 ## Project title - Sales Tracker
-A concise, descriptive name for the dashboard. 
+The Sales Tracker Dashboard provides a comprehensive view of phone sales transactions across different states. It helps businesses and analysts monitor sales distribution, identify high-performing regions, and track transaction trends in real time. 
 ## Example: 
 sales tracker dashboard The Sales Dashboard provides an interactive and visual representation of sales performance across different regions, products, and time periods. It helps businesses track revenue trends, identify top-performing products, monitor slicer, and make data-driven decisions efficientl
 📊 Sales Dashboard
